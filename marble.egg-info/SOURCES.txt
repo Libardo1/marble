@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+marble/__init__.py
+marble/classes.py
+marble/clustering.py
+marble/common.py
+marble/dissimilarity.py
+marble/exposure.py
+marble/neighbourhoods.py
+marble/representation.py
+marble.egg-info/PKG-INFO
+marble.egg-info/SOURCES.txt
+marble.egg-info/dependency_links.txt
+marble.egg-info/not-zip-safe
+marble.egg-info/top_level.txt

@@ -1,10 +1,11 @@
 from setuptools import setup
 
 def readme():
-    with open('README.rst.example') as f:
+    with open('README.md') as f:
         return f.read()
 
-(name='marble',
+setup(
+	name='marble',
     version='0.1',
     description=('A python library to study socio-spatial stratification '+
                  'in cities'),
